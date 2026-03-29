@@ -1,4 +1,4 @@
-const CACHE = 'mealplanner-v1';
+const CACHE = 'mealplanner-v2';
 const URL = './index.html';
 
 self.addEventListener('install', e => {
