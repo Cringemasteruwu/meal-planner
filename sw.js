@@ -1,4 +1,4 @@
-const CACHE = 'bowl-v6';
+const CACHE = 'bowl-v7';
 const ASSETS = ['./index.html', './bowl-mascot.svg'];
 
 self.addEventListener('install', e => {
